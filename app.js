@@ -32,6 +32,6 @@ var msgs = [
   ]
 
 function c(t) {
-    navigator.clipboard.writeText(msgs(t));
+    navigator.clipboard.writeText(msgs[t]);
   }
   
