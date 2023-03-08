@@ -16,7 +16,7 @@ var msgs = [
   'Todo Donate é processado de forma automática pelo servidor. Normalmente o processo ocorre imediatamente, mas o prazo máximo é de 24hrs. Lembre-se, quanto mais TC você comprar, maior vai ser o desconto. ',
   'Para um progresso mais rápido no avanço das skills, recomendamos EK/RP treinarem no Trainner + Dummy, enquanto para Mage o melhor é o Dummy de House que da +10%.',
   'Conforme a mecânica do game, cada sala de Boss tem um tempo máximo de permanência, então se alguém estiver "trapando o boss”, o mesmo será kikado no tempo limite da sala. A staff não pode intervir nisso.',
-  'Você pode se conectar em até 4 contas no mesmo IP ao mesmo tempo. Porém apenas é permitido estar jogando em 1 Char, os outros podem ficar treinando. Caso seja detectado que o mesmo IP tem 2 personagens jogando ao mesmo tempo, a conta poderá ser Banida.',
+  'Você pode se conectar em até 5 contas no mesmo IP ao mesmo tempo. Porém apenas é permitido estar jogando em 1 Char, os outros podem ficar treinando. Caso seja detectado que o mesmo IP tem 2 personagens jogando ao mesmo tempo, a conta poderá ser Banida.',
   'Apenas é possivel pegar a !reward 1 vez por conta - se criada após 01/12. No lvl 10 você recebe uma varinha e 3 dias de VIP e ao atingir o lvl 300 você recebe uma Ferumbrinha Gift Box.',
   'Pode vir UMA das seguintes recompensas: 15 dias de Vip, Varinha de 46k, Outfit Retro, Outfit Store, 20 Pray cards, Mount Store, Loot Pouch, Tournament Coins',
   'Qualquer dúvida em relação aos eventos do servidor, consulte a aba de "EVENTOS” no nosso !discord.',
